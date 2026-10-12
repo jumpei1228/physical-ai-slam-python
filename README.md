@@ -1,5 +1,7 @@
 # SLAM（自己位置推定と地図作成）をPythonで実装する｜占有格子地図とパーティクルフィルタ
 
+[![run](https://github.com/jumpei1228/physical-ai-slam-python/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/physical-ai-slam-python/actions/workflows/run.yml)
+
 「地図が無いと自分の位置が分からず、位置が分からないと地図が作れない」というSLAMの鶏と卵問題を、占有格子地図とパーティクルフィルタでPython実装。ロボットが自分の位置と周囲の地図を同時に組み立てる仕組みをコードで理解します。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
